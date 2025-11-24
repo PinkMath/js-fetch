@@ -1,5 +1,5 @@
 **The home page:**
-./scheenshot/home-page.png
+<img src="./scheenshot/home-page.png" alt="" width="1500">
 
 **The "users" page:**
-./scheenshot/users.png
+<img src="./scheenshot/users.png" alt="" width="1500">
